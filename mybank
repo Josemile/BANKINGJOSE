@@ -1,13 +1,10 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
+
 package com.mycompany.joseph;
 import java.util.Scanner;
 /**
  *
- * @author DELL
+ * @author Joseph
  */
 public class bankin {
       public static void main(String[] args) {
@@ -26,7 +23,7 @@ public class bankin {
                        System.out.println("ENTER PIN");
               int pin= in.nextInt();
               
-              if(pin==000){
+              if(pin==2022){
                       System.out.println("FOR THE TRANSACTIONS THAT OCCUR IN THIS ACCOUNT;");
                       System.out.println("charges of 10% of the balance at the end of the month");
                       System.out.println("penalty of 10.00 when the balance goes below of 50,000.00");
@@ -40,7 +37,7 @@ public class bankin {
                        System.out.println("ENTER PIN");
               int pin= in.nextInt();
               
-              if(pin==111){
+              if(pin==1990){
              System.out.println("FOR THE TRANSACTIONS THAT OCCUR IN THIS ACCOUNT;");
                       System.out.println("charges of 10% of the balance at the end of month");
                       System.out.println("interest of 7% paid monthly");
@@ -54,7 +51,7 @@ public class bankin {
                        System.out.println("ENTER PIN");
               int pin= in.nextInt();
               
-              if(pin==222){
+              if(pin==1991){
              System.out.println("FOR THE TRANSACTIONS THAT OCCUR IN THIS ACCOUNT;");
                       System.out.println("charges of 10% of the balance at the end of month");
                       System.out.println("annual interest of 7%");
@@ -70,7 +67,7 @@ public class bankin {
                        System.out.println("ENTER PIN");
               int pin= in.nextInt();
               
-              if(pin==333){
+              if(pin==1992){
               System.out.println("FOR THE TRANSACTIONS THAT OCCUR IN THIS ACCOUNT;");
                       System.out.println("charges of 10% of the balance at the end of month");
                       System.out.println("annual interest of 15%");
